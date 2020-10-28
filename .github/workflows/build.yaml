@@ -15,3 +15,7 @@ jobs:
         run: pwd
       - name: List dir
         run: ls
+      - name: Check Donet Cli
+        run: dotnet
+      - name: Check NPM
+        run: npm     
