@@ -17,3 +17,5 @@
 /Users/justinlackie/RiderProjects/TrickingLibrary/TrickingLibraryApi/obj/Debug/netcoreapp3.1/TrickingLibraryApi.dll
 /Users/justinlackie/RiderProjects/TrickingLibrary/TrickingLibraryApi/obj/Debug/netcoreapp3.1/TrickingLibraryApi.pdb
 /Users/justinlackie/RiderProjects/TrickingLibrary/TrickingLibraryApi/obj/Debug/netcoreapp3.1/TrickingLibraryApi.genruntimeconfig.cache
+/Users/justinlackie/RiderProjects/TrickingLibrary/TrickingLibraryApi/bin/Debug/netcoreapp3.1/web-client/package-lock.json
+/Users/justinlackie/RiderProjects/TrickingLibrary/TrickingLibraryApi/bin/Debug/netcoreapp3.1/web-client/package.json
