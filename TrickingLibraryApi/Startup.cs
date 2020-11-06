@@ -34,6 +34,7 @@ namespace TrickingLibraryApi
             }
 
             app.UseCors(AllCors);
+            
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
