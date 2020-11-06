@@ -4,4 +4,9 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="web-client\package-lock.json" />
+      <_ContentIncludedByDefault Remove="web-client\package.json" />
+    </ItemGroup>
+
 </Project>
